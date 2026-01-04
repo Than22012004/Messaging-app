@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "120560352418",
+    "firebase_url": "https://cuoikidienthoai-default-rtdb.firebaseio.com",
+    "project_id": "cuoikidienthoai",
+    "storage_bucket": "cuoikidienthoai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120560352418:android:63864f1301928d17ffabfb",
+        "android_client_info": {
+          "package_name": "com.example.cuoikidienthoai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWB3-TydN5_sN_zuj-fAzrv2NQTlWPirA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
